@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eitan-factory-6375defe.zappy5.app/sitemap.xml

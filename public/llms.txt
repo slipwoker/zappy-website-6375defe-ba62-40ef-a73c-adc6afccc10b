@@ -1,0 +1,86 @@
+# eitan factory — Generative Engine Optimization Map
+
+> A General business.
+
+---
+
+## Pages
+
+### Home
+https://eitan-factory-6375defe.zappy5.app
+
+### About
+https://eitan-factory-6375defe.zappy5.app/about
+
+### Services
+https://eitan-factory-6375defe.zappy5.app/services
+
+### Contact
+https://eitan-factory-6375defe.zappy5.app/contact
+
+### Products
+https://eitan-factory-6375defe.zappy5.app/products
+המוצרים שלנו - eitan factory
+
+### Cart
+https://eitan-factory-6375defe.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://eitan-factory-6375defe.zappy5.app/checkout
+תשלום
+
+### Login
+https://eitan-factory-6375defe.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://eitan-factory-6375defe.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://eitan-factory-6375defe.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://eitan-factory-6375defe.zappy5.app/product/:slug
+פרטי המוצר - eitan factory
+
+### Category
+https://eitan-factory-6375defe.zappy5.app/category/:slug
+מוצרים - eitan factory
+
+## Legal & Policy
+
+### Privacy Policy
+https://eitan-factory-6375defe.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://eitan-factory-6375defe.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://eitan-factory-6375defe.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About eitan factory
+eitan factory is a business in the General industry.
+
+## Target Audience
+- חובבי קניות אונליין
+- מחפשי מתנות
+
+## Industry
+General
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://eitan-factory-6375defe.zappy5.app/sitemap.xml
+- **Robots.txt**: https://eitan-factory-6375defe.zappy5.app/robots.txt
